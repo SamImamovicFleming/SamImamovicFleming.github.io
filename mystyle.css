@@ -61,5 +61,6 @@ ul.ShowList {
 }
 
 #ImageOne {
-  float: left;
+  float: left
+  clear: right;
 }
