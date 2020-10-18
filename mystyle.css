@@ -62,6 +62,5 @@ ul.ShowList {
 
 #ImageOne {
   float: left
-  clear: both
-  padding: 1px;
+  padding: 5px;
 }
