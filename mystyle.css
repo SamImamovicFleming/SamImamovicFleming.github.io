@@ -4,9 +4,13 @@
 
 #NavBar li a {
   display: block;
-  background-color: burgundy;
+  background-color: brown;
 }
 
 body {
   background-color: orange;
+}
+
+#NameTitle {
+  font-family: Arial, Helvetica, sans-serif
 }
