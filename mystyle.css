@@ -17,7 +17,8 @@ body {
   font-family: Arial, Helvetica, sans-serif
 }
 
-h1 {
+.MainTitle {
+  font-family: Arial, Helvetica, sans-serif
   text-align: centre;
 }
 
