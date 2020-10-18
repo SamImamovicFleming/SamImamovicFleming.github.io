@@ -2,7 +2,7 @@
   list-style-type: none;
 } 
 
-#NavBar a {
+#NavBar li a {
   display: block;
   background-color: burgundy;
 }
