@@ -59,3 +59,7 @@ tr:hover {background-color: yellow;}
 ul.ShowList {
   list-style-type: circle;
 }
+
+#ImageOne {
+  float: left;
+}
