@@ -45,3 +45,12 @@ table {
 table, th, td {
   border: 2px solid black;
 }
+
+th{ 
+  text-align: left;
+}
+
+tr:hover{
+  backgrounf-color: yellow
+}
+
